@@ -1,1 +1,1 @@
-# lab-grader-new"# Check-labs" 
+Frontend веб сервис для проверки лабораторных работ
